@@ -1,51 +1,51 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\",
+  "WorkspaceRootPath": "D:\\Figura.Speedway.Project\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|d:\\speedwayproject\\figura.speedwaynetwork\\figura.speedwaynetwork.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|d:\\figura.speedway.project\\figura.speedwaynetwork\\figura.speedwaynetwork.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|d:\\speedwayproject\\figura.speedwaynetwork\\figura.speedwaynetwork.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|d:\\figura.speedway.project\\figura.speedwaynetwork\\figura.speedwaynetwork.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|d:\\speedwayproject\\figura.speedwaynetwork\\figura.speedwaynetwork.api\\controllers\\networkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|d:\\figura.speedway.project\\figura.speedwaynetwork\\figura.speedwaynetwork.api\\controllers\\networkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|solutionrelative:controllers\\networkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|d:\\speedwayproject\\figura.speedwaynetwork\\figura.speedwaynetwork.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|d:\\figura.speedway.project\\figura.speedwaynetwork\\figura.speedwaynetwork.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C9AC026-E185-4EB3-B4D8-8B37EE0FC98D}|..\\Figura.SpeedwayNetwork.Service\\Figura.SpeedwayNetwork.Service.csproj|d:\\speedwayproject\\figura.speedwaynetwork\\figura.speedwaynetwork.service\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C9AC026-E185-4EB3-B4D8-8B37EE0FC98D}|..\\Figura.SpeedwayNetwork.Service\\Figura.SpeedwayNetwork.Service.csproj|d:\\speedwayproject\\figura.speedwaynetwork\\figura.speedwaynetwork.service\\inetworkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2247EE4F-B493-4122-BE53-5CD36C0E5044}|..\\Figura.SpeedwayNetwork.Model\\Figura.SpeedwayNetwork.Model.csproj|d:\\speedwayproject\\figura.speedwaynetwork\\figura.speedwaynetwork.model\\speedwaynetworkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2247EE4F-B493-4122-BE53-5CD36C0E5044}|..\\Figura.SpeedwayNetwork.Model\\Figura.SpeedwayNetwork.Model.csproj|d:\\speedwayproject\\figura.speedwaynetwork\\figura.speedwaynetwork.model\\dao\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|d:\\speedwayproject\\figura.speedwaynetwork\\figura.speedwaynetwork.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|d:\\figura.speedway.project\\figura.speedwaynetwork\\figura.speedwaynetwork.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|solutionrelative:extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2247EE4F-B493-4122-BE53-5CD36C0E5044}|..\\Figura.SpeedwayNetwork.Model\\Figura.SpeedwayNetwork.Model.csproj|d:\\speedwayproject\\figura.speedwaynetwork\\figura.speedwaynetwork.model\\speedwaynetworkdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|d:\\speedwayproject\\figura.speedwaynetwork\\figura.speedwaynetwork.api\\figura.speedwaynetwork.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|d:\\figura.speedway.project\\figura.speedwaynetwork\\figura.speedwaynetwork.api\\figura.speedwaynetwork.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{900C8340-6AD3-466C-8556-9E2566852308}|Figura.SpeedwayNetwork.Api.csproj|solutionrelative:figura.speedwaynetwork.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2247EE4F-B493-4122-BE53-5CD36C0E5044}|..\\Figura.SpeedwayNetwork.Model\\Figura.SpeedwayNetwork.Model.csproj|d:\\speedwayproject\\figura.speedwaynetwork\\figura.speedwaynetwork.model\\figura.speedwaynetwork.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SpeedwayProject\\Figura.Speedway.Network\\Figura.SpeedwayNetwork.Service\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SpeedwayProject\\Figura.Speedway.Network\\Figura.SpeedwayNetwork.Service\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Service\\INetworkService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Service\\NetworkService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\DAO\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\Figura.SpeedwayNetwork.Model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,7 +55,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 619,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,23 +63,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SpeedwayNetworkDb.cs",
-              "DocumentMoniker": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkDb.cs",
-              "RelativeDocumentMoniker": "..\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkDb.cs",
-              "ToolTip": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkDb.cs",
-              "RelativeToolTip": "..\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-07T15:36:42.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Extensions\\ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\Figura.Speedway.Project\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "Extensions\\ServiceCollectionExtensions.cs",
-              "ToolTip": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\Figura.Speedway.Project\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeToolTip": "Extensions\\ServiceCollectionExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Startup.cs",
+              "DocumentMoniker": "D:\\Figura.Speedway.Project\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Startup.cs",
+              "ToolTip": "D:\\Figura.Speedway.Project\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,24 +87,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "INetworkService.cs",
               "DocumentMoniker": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Service\\INetworkService.cs",
-              "RelativeDocumentMoniker": "..\\Figura.SpeedwayNetwork.Service\\INetworkService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Service\\INetworkService.cs",
               "ToolTip": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Service\\INetworkService.cs",
-              "RelativeToolTip": "..\\Figura.SpeedwayNetwork.Service\\INetworkService.cs",
+              "RelativeToolTip": "..\\..\\..\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Service\\INetworkService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T15:44:13.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Figura.Speedway.Project\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Figura.Speedway.Project\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T15:33:01.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpeedwayNetworkDb.cs",
+              "DocumentMoniker": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkDb.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkDb.cs",
+              "ToolTip": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkDb.cs",
+              "RelativeToolTip": "..\\..\\..\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:36:42.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "NetworkService.cs",
               "DocumentMoniker": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Service\\NetworkService.cs",
-              "RelativeDocumentMoniker": "..\\Figura.SpeedwayNetwork.Service\\NetworkService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Service\\NetworkService.cs",
               "ToolTip": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Service\\NetworkService.cs",
-              "RelativeToolTip": "..\\Figura.SpeedwayNetwork.Service\\NetworkService.cs",
+              "RelativeToolTip": "..\\..\\..\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Service\\NetworkService.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAAAFsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T15:45:31.706Z"
@@ -125,9 +138,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "NetworkController.cs",
-              "DocumentMoniker": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Controllers\\NetworkController.cs",
+              "DocumentMoniker": "D:\\Figura.Speedway.Project\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Controllers\\NetworkController.cs",
               "RelativeDocumentMoniker": "Controllers\\NetworkController.cs",
-              "ToolTip": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Controllers\\NetworkController.cs",
+              "ToolTip": "D:\\Figura.Speedway.Project\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Controllers\\NetworkController.cs",
               "RelativeToolTip": "Controllers\\NetworkController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAiwCkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,9 +150,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Program.cs",
+              "DocumentMoniker": "D:\\Figura.Speedway.Project\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Program.cs",
+              "ToolTip": "D:\\Figura.Speedway.Project\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -147,60 +160,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-07T15:33:01.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "SpeedwayNetworkContext.cs",
               "DocumentMoniker": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkContext.cs",
-              "RelativeDocumentMoniker": "..\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkContext.cs",
               "ToolTip": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkContext.cs",
-              "RelativeToolTip": "..\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkContext.cs",
+              "RelativeToolTip": "..\\..\\..\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\SpeedwayNetworkContext.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAAADMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T15:37:53.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Country.cs",
               "DocumentMoniker": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\DAO\\Country.cs",
-              "RelativeDocumentMoniker": "..\\Figura.SpeedwayNetwork.Model\\DAO\\Country.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\DAO\\Country.cs",
               "ToolTip": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\DAO\\Country.cs",
-              "RelativeToolTip": "..\\Figura.SpeedwayNetwork.Model\\DAO\\Country.cs",
+              "RelativeToolTip": "..\\..\\..\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\DAO\\Country.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T15:40:50.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Figura.SpeedwayNetwork.Model.csproj",
               "DocumentMoniker": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\Figura.SpeedwayNetwork.Model.csproj",
-              "RelativeDocumentMoniker": "..\\Figura.SpeedwayNetwork.Model\\Figura.SpeedwayNetwork.Model.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\Figura.SpeedwayNetwork.Model.csproj",
               "ToolTip": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\Figura.SpeedwayNetwork.Model.csproj",
-              "RelativeToolTip": "..\\Figura.SpeedwayNetwork.Model\\Figura.SpeedwayNetwork.Model.csproj",
+              "RelativeToolTip": "..\\..\\..\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Model\\Figura.SpeedwayNetwork.Model.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-07T15:30:29.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Figura.SpeedwayNetwork.Api.csproj",
-              "DocumentMoniker": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Figura.SpeedwayNetwork.Api.csproj",
+              "DocumentMoniker": "D:\\Figura.Speedway.Project\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Figura.SpeedwayNetwork.Api.csproj",
               "RelativeDocumentMoniker": "Figura.SpeedwayNetwork.Api.csproj",
-              "ToolTip": "D:\\SpeedwayProject\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Figura.SpeedwayNetwork.Api.csproj",
+              "ToolTip": "D:\\Figura.Speedway.Project\\Figura.SpeedwayNetwork\\Figura.SpeedwayNetwork.Api\\Figura.SpeedwayNetwork.Api.csproj",
               "RelativeToolTip": "Figura.SpeedwayNetwork.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -208,12 +208,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\SpeedwayProject\\Figura.Speedway.Network\\Figura.SpeedwayNetwork.Service\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\..\\Figura.Speedway.Network\\Figura.SpeedwayNetwork.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\SpeedwayProject\\Figura.Speedway.Network\\Figura.SpeedwayNetwork.Service\\Class1.cs",
               "ToolTip": "D:\\SpeedwayProject\\Figura.Speedway.Network\\Figura.SpeedwayNetwork.Service\\Class1.cs",
-              "RelativeToolTip": "..\\..\\Figura.Speedway.Network\\Figura.SpeedwayNetwork.Service\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\SpeedwayProject\\Figura.Speedway.Network\\Figura.SpeedwayNetwork.Service\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T15:08:40.924Z"
